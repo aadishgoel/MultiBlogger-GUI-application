@@ -8,9 +8,32 @@ There is also a option of commenting on a post by becoming anonymous.<br />
 * pymysql 
 * tkinter
 * Mysql database and Having Workbench will be great.
+# How to get Pymysql: 
+If you have pip configured in your pc then you can easily download it.<br />
+By opening cmd and writing.<br />
+    pip install pymysql
+OR <br />
+You can download it from any other source and install it manually.
+    
+### Checking if pip configured or not:
+Just open cmd and type pip.<br />
+and if you get<br /> 
+'pip' is not recognized as an internal or external command,
+operable program or batch file.<br />
+Then it is not configured.<br />
+and<br />
+if you get the logs.<br />
+Congratulations you are already configured.
 
-# DataBase Configruation
-## How to make database:
+### How to configure pip:
+* Basically you have to set pip in your envirnoment variables.
+Go to properties of my computer<br />
+and then to advanced system settings<br />
+and then to Envirnoment Variables and In system variables<br />
+you have to edit the path and place the path of pip there<br />
+and it's Done.
+
+# How to make database:
 ### Recommended
  Model of database is given in blogger.mwb in application.<br />
  So, You could directly produce database out of it.<br />
