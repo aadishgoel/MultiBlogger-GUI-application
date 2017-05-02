@@ -6,7 +6,10 @@ import datetime
 from tkinter import messagebox
 
 # Initial_Confriguations
-db = Connect('localhost', 'root', '1234', 'mydb', 3306)
+db = Connect('localhost', 'root', '1234', 'blogger', 3306)
+""" Where root is your mysql user and 1234 is the password  
+So, You can replace that in your machine. With your root user and password 
+"""
 cursor = db.cursor()
 
 # Window_Frames
