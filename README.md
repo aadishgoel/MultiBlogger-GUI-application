@@ -11,14 +11,16 @@ There is also a option of commenting on a post by becoming anonymous.<br />
 # How to get Pymysql: 
 If you have pip configured in your pc then you can easily download it.<br />
 By opening cmd and writing.<br />
-    pip install pymysql
+ ```   
+ pip install pymysql 
+ ```
 OR <br />
 You can download it from any other source and install it manually.
     
 ### Checking if pip configured or not:
 Just open cmd and type pip.<br />
 and if you get<br /> 
-'pip' is not recognized as an internal or external command,
+'pip' is not recognized as an internal or external command,<br />
 operable program or batch file.<br />
 Then it is not configured.<br />
 and<br />
@@ -39,13 +41,14 @@ and it's Done.
  So, You could directly produce database out of it.<br />
  <br />
  * For eg.<br />
- If you have MySQL Workbench.<br />
- Then you can directly open blogger.mwb file there.<br />
- and then press Ctrl+G<br />
- OR<br />
- Go to Database in Menu Bar.<br />
- and Click Forward Engineer...<br />
- <br />
+ 
+If you have MySQL Workbench.<br />
+Then you can directly open blogger.mwb file there.<br />
+and then press Ctrl+G<br />
+OR<br />
+Go to Database in Menu Bar.<br />
+and Click Forward Engineer...<br />
+<br />
  and By doing next, next It will Simply Create the Datebase in Your PC.
  
 ### Alternative
