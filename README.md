@@ -7,10 +7,29 @@ There is also a option of commenting on a post by becoming anonymous.<br />
 # Requirements 
 * pymysql 
 * tkinter
-* mysql database
+* Mysql database and Having Workbench will be great.
 
 # DataBase Configruation
+## How to make database:
+### Recommended
+ Model of database is given in blogger.mwb in application.<br />
+ So, You could directly produce database out of it.<br />
+ <br />
+ * For eg.<br />
+ If you have MySQL Workbench.<br />
+ Then you can directly open blogger.mwb file there.<br />
+ and then press Ctrl+G<br />
+ OR<br />
+ Go to Database in Menu Bar.<br />
+ and Click Forward Engineer...<br />
+ <br />
+ and By doing next, next It will Simply Create the Datebase in Your PC.
+ 
+### Alternative
 Er Model of application is given as ERmodel.png<br />
-blogger.mwb file is also given so you could generate new database by workbench.
+So, You could either make it on your own Or by any other software.
+ 
+
+
 
 ### Try it and Enjoy :)
