@@ -43,6 +43,7 @@ and it's Done.
  * For eg.<br />
  
 If you have MySQL Workbench.<br />
+Else you can download from https://dev.mysql.com/downloads/workbench/ <br/>
 Then you can directly open blogger.mwb file there.<br />
 and then press Ctrl+G<br />
 OR<br />
