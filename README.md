@@ -36,6 +36,7 @@ you have to edit the path and place the path of pip there<br />
 and it's Done.
 
 # How to make database:
+MySQL required for database, You can get it from https://dev.mysql.com/downloads/windows/installer/5.7.html
 ### Recommended
  Model of database is given in blogger.mwb in application.<br />
  So, You could directly produce database out of it.<br />
